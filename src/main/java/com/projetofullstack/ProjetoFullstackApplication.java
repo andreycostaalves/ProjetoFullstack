@@ -1,4 +1,4 @@
-package com.projetofullstack.ProjetoFullstack;
+package com.projetofullstack;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
